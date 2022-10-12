@@ -1,5 +1,5 @@
 <a target="_blank" href="https://kingwebsites.co.za/react-task-tracker/build/">Click here to see the
-                        project</a>
+                        project live</a>
 
 # Getting Started with Create React App
 
