@@ -1,6 +1,3 @@
-<a target="_blank" href="https://kingwebsites.co.za/react-task-tracker/build/">Click here to see the
-                        project live</a>
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
